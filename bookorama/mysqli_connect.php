@@ -7,7 +7,7 @@
 // Set the database access information as constants:
 DEFINE ('DB_USER', 'otteb1');
 DEFINE ('DB_PASSWORD', '741897');
-DEFINE ('DB_HOST', 'cscdb.nku.edu');
+DEFINE ('DB_HOST', '');
 DEFINE ('DB_NAME', 'db_otteb1');
 
 // Make the connection:
